@@ -1,0 +1,11 @@
+C:\visualstudio2019\BetaMart_MutiaNandhika\BetaMart_MutiaNandhika\bin\Debug\db_betamart.accdb
+C:\visualstudio2019\BetaMart_MutiaNandhika\BetaMart_MutiaNandhika\bin\Debug\BetaMart_MutiaNandhika.exe.config
+C:\visualstudio2019\BetaMart_MutiaNandhika\BetaMart_MutiaNandhika\bin\Debug\BetaMart_MutiaNandhika.exe
+C:\visualstudio2019\BetaMart_MutiaNandhika\BetaMart_MutiaNandhika\bin\Debug\BetaMart_MutiaNandhika.pdb
+C:\visualstudio2019\BetaMart_MutiaNandhika\BetaMart_MutiaNandhika\obj\Debug\BetaMart_MutiaNandhika.Form1.resources
+C:\visualstudio2019\BetaMart_MutiaNandhika\BetaMart_MutiaNandhika\obj\Debug\BetaMart_MutiaNandhika.Properties.Resources.resources
+C:\visualstudio2019\BetaMart_MutiaNandhika\BetaMart_MutiaNandhika\obj\Debug\BetaMart_MutiaNandhika.csproj.GenerateResource.cache
+C:\visualstudio2019\BetaMart_MutiaNandhika\BetaMart_MutiaNandhika\obj\Debug\BetaMart_MutiaNandhika.csproj.CoreCompileInputs.cache
+C:\visualstudio2019\BetaMart_MutiaNandhika\BetaMart_MutiaNandhika\obj\Debug\BetaMart_MutiaNandhika.exe
+C:\visualstudio2019\BetaMart_MutiaNandhika\BetaMart_MutiaNandhika\obj\Debug\BetaMart_MutiaNandhika.pdb
+C:\visualstudio2019\BetaMart_MutiaNandhika\BetaMart_MutiaNandhika\obj\Debug\BetaMart_MutiaNandhika.csprojAssemblyReference.cache
